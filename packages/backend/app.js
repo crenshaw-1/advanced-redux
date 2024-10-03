@@ -18,6 +18,7 @@ app.use(cookieParser(config.TOKEN));
 const corsOptions = {
 	// Add your address here i.e. your forwarded address from a cloud environment
 	origin: [
+		"https://5173-crenshaw1-advancedredux-zhaoydl088j.ws-eu116.gitpod.io",
 		"http://127.0.0.1:5173",
 		"http://127.0.0.1:4173",
 		"http://localhost:5173",

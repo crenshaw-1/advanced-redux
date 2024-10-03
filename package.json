@@ -1,6 +1,6 @@
 {
   "name": "advanced-state-management-with-redux-toolkit-quest",
-  "packageManager": "yarn@4.5.0",
+  "packageManager": "yarn@1.22.22",
   "private": true,
   "workspaces": [
     "packages/*"
